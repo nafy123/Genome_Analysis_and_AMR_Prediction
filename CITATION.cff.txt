@@ -1,0 +1,28 @@
+cff-version: 1.2.0 message: "If you use this repository, please cite the associated manuscript and software repository. version: 1.0.0 date-released: 2026-11-16
+
+authors:
+
+family-names: "Batu" given-names: "Nafyad Ibrahim"
+family-names: "Sasikumar" given-names: "Jagathala Mahalingam"
+family-names: "Abo El-makarem" given-names: "Hussein Sobhy"
+family-names: "Ghanem" given-names: "Mostafa"
+family-names: "Tulu" given-names: "Ketema Tafess"
+family-names: "Ebu" given-names: "Seid Mohammed"
+family-names: "William Raja" given-names: "Tharsius R."
+
+abstract: > Computational workflows for bacterial genome analysis, pangenome and resistome characterization, antimicrobial resistance gene profiling, machine-learning-based AMR prediction, external validation, and SHAP-based model interpretability.
+
+license: MIT
+
+keywords:
+
+	>Bacterial genomics
+	>AMR prediction
+	>Pan-genome
+	>Resistome
+	>ARGs
+	>Machine learning
+	>SHAP
+	>Staphylococcus aureus
+	>Methicillin resistance
+	>Antimicrobial resistance
